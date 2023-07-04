@@ -1,0 +1,26 @@
+name: update_data
+on:
+  push:
+    paths-ignore:
+      - 'README.md'
+      - '.github/**'
+      - 'LICENSE'
+  schedule:
+    - cron: '30 06 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  update_data:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+    - name: Update data
+      run: sh update_data.sh
+    - uses: EndBug/add-and-commit@v9
+      with:
+        author_name: Github Actions
+        author_email: actions@github.com
+        committer_email: actions@github.com
