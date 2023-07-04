@@ -7,6 +7,6 @@ while read -r url; do
     echo "" >>download/temp.txt
 done <url.txt
 cat trackerlist.txt >>download/temp.txt
-sort -u download/temp.txt >trackerlist.txt
+sort -u download/temp.txt | grep "." >trackerlist.txt
 rm -rf download
 sha256sum trackerlist.txt | cut -d" " -f1 >trackerlist.txt.sha256sum
