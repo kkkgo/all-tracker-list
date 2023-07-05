@@ -911,6 +911,7 @@ udp://elementsbrowser.com:6969/announce
 udp://epider.me:6969/announce
 udp://escalaenbernal.com:3074/announce
 udp://exodus.desync.com:6969/announce
+udp://explodie.org:6969/announce
 udp://f1sh.de:6969/announce
 udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
