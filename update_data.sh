@@ -5,14 +5,14 @@ touch trackerslist.txt
 while read -r url; do
     echo "" >>download/temp.txt
     TEST=$(curl -s "$url")
-    if [ "$?" = "0" ] && echo $TEST | grep -q "://"; then
-        echo $TEST | grep "://" >>download/temp.txt
+    if [ "$?" = "0" ] && echo "$TEST" | grep -qE "[^ ]+://[^ ]+"; then
+        echo "$TEST" | grep -Eo "[^ ]+://[^ ]+" >>download/temp.txt
     fi
     echo "" >>download/temp.txt
 done <url.txt
 cat trackerslist.txt >>download/temp.txt
 echo "" >>download/temp.txt
-sort -u download/temp.txt | grep "://" >trackerslist.txt
+sort -u download/temp.txt | grep -Eo "[^ ]+://[^ ]+" >trackerslist.txt
 rm -rf download
 sha256sum trackerslist.txt | cut -d" " -f1 >trackerslist.txt.sha256sum
 rm trackerslist.txt.xz
