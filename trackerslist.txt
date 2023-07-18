@@ -56,6 +56,7 @@ http://171.104.226.31:6969/announce
 http://171.104.226.87:6969/announce
 http://179.100.24.134:6969/announce
 http://180.97.219.76:8070/announce
+http://185.130.47.2:6969/announce
 http://185.148.3.231/announce
 http://185.148.3.231:80/announce
 http://185.185.40.51:6969/announce
@@ -729,6 +730,8 @@ https://tracker.ipfsscan.io:443/announce
 https://tracker.iriseden.fr/announce
 https://tracker.iriseden.fr:443/announce
 https://tracker.jiesen.life:8443/announce
+https://tracker.kitaujisub.site/announce.php?authkey=213|10003|j46n2q
+https://tracker.kitaujisub.site/announce.php?authkey=215|10003|j46n2q
 https://tracker.kuroy.me/announce
 https://tracker.kuroy.me:443/announce
 https://tracker.lelux.fi/announce
