@@ -195,6 +195,7 @@ http://alltorrents.net:80/bt:80/announce.php
 http://alpha.torrenttracker.nl:443/announce
 http://anidex.moe:6969/announce
 http://anidex.moe:6969/announce+
+http://anisource.spb.ru/announce
 http://announce.partis.si/announce
 http://announce.partis.si:80/announce
 http://atrack.pow7.com/announce
@@ -268,6 +269,7 @@ http://ehtracker.org/1104308/announce
 http://ehtracker.org/1113709/announce
 http://ehtracker.org/1226599/1080494xo5eXcwFOBq/announce
 http://ehtracker.org/2496841/announce
+http://ehtracker.org/2566145/1159106xUfsJkT9Btg/announce
 http://fe.dealclub.de:6969/announce
 http://finbytes.org/announce.php
 http://finbytes.org:80/announce.php
@@ -1104,6 +1106,7 @@ udp://yann5.hexanyn.fr:6969/announce
 udp://zecircle.xyz:6969/announce
 ws://hub.bugout.link:80/announce
 wss://qot.abiir.top:443/announce
+wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.btorrent.xyz:443/announce
 wss://tracker.dnlab.net:443/announce
 wss://tracker.files.fm:7073/announce
