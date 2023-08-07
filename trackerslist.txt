@@ -761,6 +761,7 @@ https://tracker.mlsub.net/announce
 https://tracker.mlsub.net:443/announce
 https://tracker.moeblog.cn/announce
 https://tracker.moeblog.cn:443/announce
+https://tracker.monikadesign.uk/announce/63ea34cb9815cd28d63fc75b2f2c5a56
 https://tracker.moxing.party:6969/announce
 https://tracker.nanoha.org/announce
 https://tracker.nanoha.org:443/announce
@@ -959,6 +960,7 @@ udp://mail.artixlinux.org:6969/announce
 udp://mail.segso.net:6969/announce
 udp://mail.zasaonsk.ga:6969/announce
 udp://market-re.quest:6969/announce
+udp://mikrotik2.draatman.net:6969/announce
 udp://mirror.aptus.co.tz:6969/announce
 udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
