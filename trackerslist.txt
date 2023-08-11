@@ -144,6 +144,7 @@ http://61.222.178.254:6969/announce
 http://62.182.85.138:666/announce
 http://65.108.2.176:2710/announce
 http://75.127.14.224:2710/announce
+http://79.137.198.96:6969/announce
 http://83.31.190.19:6969/announce
 http://83.31.191.97:6969/announce
 http://83.31.199.157:6969/announce
@@ -504,6 +505,7 @@ http://tracker.lintk.me:2710/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.mywaifu.best:6969/announce
+http://tracker.nartlof.com.br:6969/announce
 http://tracker.noobsubs.net/announce
 http://tracker.noobsubs.net:80/announce
 http://tracker.novaopcj.eu.org:6969/announce
@@ -1055,6 +1057,7 @@ udp://tracker.edkj.club:6969/announce
 udp://tracker.ex.ua:80/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
+udp://tracker.fnix.net:6969/announce
 udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.istole.it:80/announce
