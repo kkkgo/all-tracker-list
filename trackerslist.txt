@@ -119,6 +119,7 @@ http://45.67.35.111:6969/announce
 http://46.231.241.43:6969/announce
 http://47.243.23.189:6969/announce
 http://47.54.245.23:6969/announce
+http://49.12.76.8:6961/announce
 http://49.12.76.8:8080/announce
 http://5.182.206.171:1096/announce
 http://5.188.6.45:6969/announce
@@ -143,6 +144,7 @@ http://61.222.178.227:6969/announce
 http://61.222.178.254:6969/announce
 http://62.182.85.138:666/announce
 http://65.108.2.176:2710/announce
+http://65.130.205.148:9000/announce
 http://75.127.14.224:2710/announce
 http://79.137.198.96:6969/announce
 http://83.31.190.19:6969/announce
@@ -166,6 +168,7 @@ http://83.6.232.23:6969/announce
 http://83.6.234.75:6969/announce
 http://83.6.237.118:6969/announce
 http://88.99.189.199:6969/announce
+http://91.224.92.110:6969/announce
 http://93.158.213.92:1337/announce
 http://93.88.129.16/announce
 http://95.107.48.115/announce
