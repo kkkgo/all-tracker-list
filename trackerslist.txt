@@ -8,6 +8,7 @@ http://106.14.254.164:6969/announce
 http://107.152.127.9:6969/announce
 http://107.189.10.20.sslip.io:7777/announce
 http://107.189.31.134:6969/announce
+http://107.189.7.143:6969/announce
 http://116.252.176.125:6969/announce
 http://116.9.207.121:6969/announce
 http://116.9.207.164:6969/announce
@@ -607,6 +608,7 @@ http://widemus.de:6969/announce
 http://www.all4nothin.net/announce.php
 http://www.all4nothin.net:80/announce.php
 http://www.ansktracker.net/announce.php?passkey=58fff4518e745565986d5d2d3e884841
+http://www.arabp2p.net:2052/f5a1e35785c9f3885fd54f34b6e262b8/announce
 http://www.bit-hdtv.com:2710/announce
 http://www.bitseduce.com/announce.php
 http://www.chouchou.club:8080/announce
