@@ -523,6 +523,7 @@ http://tracker.openbittorrrent.com/announce
 http://tracker.openbittorrrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.openzim.org/announce
+http://tracker.pcfreetime.com:6969/announce
 http://tracker.peckservers.com:9000/announce
 http://tracker.pimp4003.net/announce
 http://tracker.pow7.com/announce
@@ -723,6 +724,7 @@ https://tracker.bangumi.zip/announce
 https://tracker.bangumi.zip:443/announce
 https://tracker.bt-hash.com/announce
 https://tracker.bt-hash.com:443/announce
+https://tracker.bt4g.com/announce
 https://tracker.bt4g.com:443/announce
 https://tracker.cangku.moe/announce
 https://tracker.cangku.moe:443/announce
