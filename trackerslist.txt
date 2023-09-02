@@ -1,6 +1,4 @@
-href="https://githubstatus.com">GitHub
-href="https://help.github.com/pages/">read
-href="https://twitter.com/githubstatus">@githubstatus</a>
+
 http://00.mercax.com:443/announce
 http://00.xxtor.com:443/announce
 http://0123456789nonexistent.com/announce
