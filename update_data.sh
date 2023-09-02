@@ -6,7 +6,13 @@ while read -r url; do
     echo "" >>download/temp.txt
     TEST=$(curl -s "$url")
     if [ "$?" = "0" ] && echo "$TEST" | grep -qE "[^ ]+://[^ ]+"; then
-        echo "$TEST" | grep -Eo "[^ ]+://[^ ]+" >>download/temp.txt
+        if echo "$TEST" | grep -E "githubstatus|github|twitter"; then
+            echo "curl failed."
+        else
+            if echo "$TEST" | grep "udp://"; then
+                echo "$TEST" | grep -Eo "[^ ]+://[^ ]+" >>download/temp.txt
+            fi
+        fi
     fi
     echo "" >>download/temp.txt
 done <url.txt
