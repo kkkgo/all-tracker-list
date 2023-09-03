@@ -9,8 +9,9 @@ on:
     - cron: '30 06 * * *'
   workflow_dispatch:
 permissions:
-  contents: write-all
-
+      contents: write
+      pull-requests: write
+      repository-projects: write
 
 jobs:
   update_data:
