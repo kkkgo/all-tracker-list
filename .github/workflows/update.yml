@@ -6,7 +6,7 @@ on:
       - '.github/**'
       - 'LICENSE'
   schedule:
-    - cron: '30 06 * * *'
+    - cron: '30 06 * * 5'
   workflow_dispatch:
 permissions:
       contents: write
