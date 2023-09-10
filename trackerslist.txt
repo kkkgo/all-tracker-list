@@ -116,6 +116,7 @@ udp://explodie.org:6969/announce
 udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
+udp://freedomalternative.com:6969/announce
 udp://htz3.noho.st:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://isk.richardsw.club:6969/announce
