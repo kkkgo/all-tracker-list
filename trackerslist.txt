@@ -79,6 +79,7 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 https://bt.080609.xyz:443/announce
 https://k.avc.cx:443/announce.php
+https://opentracker.i2p.rocks:443/announce
 https://shahidrazi.online:443/announce
 https://t.zerg.pw/announce
 https://t1.hloli.org:443/announce
@@ -246,6 +247,7 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.netmap.top:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
+udp://tracker.picotorrent.one:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.sheesh.rip:6969/announce
