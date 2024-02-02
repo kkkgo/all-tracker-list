@@ -26,6 +26,7 @@ http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
 http://open.tracker.ink:6969/announce
 http://p2p.0g.cx:6969/announce
+http://r.l5.ca:6969/announce
 http://region.nl1.privex.cc:6969/announce
 http://retracker.211.ru:80/announce
 http://retracker.hotplug.ru:2710/announce
@@ -77,6 +78,7 @@ http://www.all4nothin.net:80/announce.php
 http://www.peckservers.com:9000/announce
 http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
+https://bot.ponomar-sibir.ru:443/announce
 https://bt.080609.xyz:443/announce
 https://k.avc.cx:443/announce.php
 https://opentracker.i2p.rocks:443/announce
@@ -140,6 +142,7 @@ udp://black-bird.ynh.fr:6969/announce
 udp://boysbitte.be:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.rer.lol:2710/announce
+udp://bt.rer.lol:6969/announce
 udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://carr.codes:6969/announce
