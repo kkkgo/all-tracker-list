@@ -30,6 +30,7 @@ http://r.l5.ca:6969/announce
 http://region.nl1.privex.cc:6969/announce
 http://retracker.211.ru:80/announce
 http://retracker.hotplug.ru:2710/announce
+http://retracker.seven-sky.net:80/announce
 http://share.camoe.cn:8080/announce
 http://shubt.net:2710/announce
 http://smurfsoft.com:6969/announce
@@ -91,6 +92,7 @@ https://tr.burnabyhighstar.com:443/announce
 https://tr.qfruiti.com:443/announce
 https://tr.qfruiti.in:443/announce
 https://tr.ready4.icu:443/announce
+https://track3r.site:443/announce
 https://tracker.3moredays.com:443/announce
 https://tracker.bangumi.zip:443/announce
 https://tracker.cloudit.top:443/announce
