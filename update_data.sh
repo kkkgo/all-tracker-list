@@ -9,7 +9,7 @@ while read -r url; do
         if echo "$TEST" | grep -E "githubstatus|github|twitter"; then
             echo "curl failed."
         else
-            if echo "$TEST" | grep "udp://"; then
+            if echo "$TEST" | grep "://"; then
                 echo "$TEST" | grep -Eo "[^ ]+://[^ ]+" >>download/temp.txt
             fi
         fi
