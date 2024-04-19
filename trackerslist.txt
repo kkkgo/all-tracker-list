@@ -39,6 +39,7 @@ http://t.acg.rip:6699/announce
 http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 http://t.publictracker.xyz:6969/announce
+http://t1.aag.moe:17715/announce
 http://tinfoil.space:6969/announce
 http://tk.greedland.net:80/announce
 http://torrent.hificode.in:6969/announce
@@ -90,6 +91,7 @@ https://bt.ptlsp.com:443/announce
 https://k.avc.cx:443/announce.php
 https://opentracker.i2p.rocks:443/announce
 https://shahidrazi.online:443/announce
+https://t.peer-exchange.download:443/announce
 https://t.zerg.pw/announce
 https://t1.hloli.org:443/announce
 https://tr.aag.moe:443/announce
@@ -175,6 +177,7 @@ udp://free.publictracker.xyz:6969/announce
 udp://freedomalternative.com:6969/announce
 udp://htz3.noho.st:6969/announce
 udp://hz.is:1337/announce
+udp://inferno.demonoid.is:3391/announce
 udp://ipv4.rer.lol:2710/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://isk.richardsw.club:6969/announce
@@ -251,6 +254,7 @@ udp://tracker.bittor.pw:1337/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cubonegro.lol:6969/announce
 udp://tracker.cyberia.is:6969/announce
+udp://tracker.darkness.services:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dev-null.rocks:6969/announce
 udp://tracker.dler.com:6969/announce
@@ -297,6 +301,7 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 udp://ts.populargamers.co.za:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
+udp://u.peer-exchange.download:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
 udp://uploads.gamecoast.net:6969/announce
