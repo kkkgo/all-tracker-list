@@ -199,6 +199,7 @@ udp://lulz.vpndb.org:3000/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.segso.net:6969/announce
 udp://martin-gebhardt.eu:25/announce
+udp://mikrotik2.draatman.net:6969/announce
 udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
 udp://netmap.top:6969/announce
