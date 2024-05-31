@@ -253,6 +253,7 @@ udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 udp://tk1v6.trackerservers.com:8080/announce
+udp://tk2.trackerservers.com:8080/announce
 udp://tk2v6.trackerservers.com:8080/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tr.bangumi.moe:6969/announce
@@ -337,6 +338,7 @@ udp://x.paranoid.agency:6969/announce
 udp://x.t-1.org:6969/announce
 udp://y.paranoid.agency:6969/announce
 udp://yahor.of.by:6969/announce
+udp://z.mercax.com:53/announce
 udp://z.paranoid.agency:6969/announce
 ws://hub.bugout.link:80/announce
 wss://tracker.openwebtorrent.com:443/announce
