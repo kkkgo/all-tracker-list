@@ -90,6 +90,7 @@ http://www.all4nothin.net:80/announce.php
 http://www.peckservers.com:9000/announce
 http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
+https://bittorrent.service.gongt.me:59443/announce
 https://bot.ponomar-sibir.ru:443/announce
 https://bt.080609.xyz:443/announce
 https://bt.ptlsp.com:443/announce
