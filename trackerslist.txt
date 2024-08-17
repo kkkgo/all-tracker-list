@@ -102,6 +102,7 @@ https://shahidrazi.online:443/announce
 https://t.peer-exchange.download:443/announce
 https://t.zerg.pw/announce
 https://t1.hloli.org:443/announce
+https://torrent.tracker.durukanbal.com:443/announce
 https://tr.aag.moe:443/announce
 https://tr.abir.ga:443/announce
 https://tr.burnabyhighstar.com:443/announce
