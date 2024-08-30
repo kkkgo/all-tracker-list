@@ -213,6 +213,7 @@ udp://movies.zsw.ca:6969/announce
 udp://netmap.top:6969/announce
 udp://new-line.net:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
+udp://ns575949.ip-51-222-82.net:6969/announce
 udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
