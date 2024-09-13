@@ -20,6 +20,7 @@ http://incine.ru:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://ipv6.rer.lol:6969/announce
 http://isk.richardsw.club:6969/announce
+http://jvavav.com:80/announce
 http://mc.itscraftsoftware.my.id:8804/announce
 http://montreal.nyap2p.com:8080/announce
 http://movies.zsw.ca:6969/announce
