@@ -37,6 +37,7 @@ http://retracker.211.ru:80/announce
 http://retracker.hotplug.ru:2710/announce
 http://retracker.seven-sky.net:80/announce
 http://retracker.x2k.ru:80/announce
+http://rfc5746.mywaifu.best:6969/announce
 http://share.camoe.cn:8080/announce
 http://shubt.net:2710/announce
 http://smurfsoft.com:6969/announce
@@ -45,6 +46,7 @@ http://t.nyaatracker.com:80/announce
 http://t.overflow.biz:6969/announce
 http://t.publictracker.xyz:6969/announce
 http://t1.aag.moe:17715/announce
+http://taciturn-shadow.spb.ru:6969/announce
 http://tinfoil.space:6969/announce
 http://tk.greedland.net:80/announce
 http://torrent.hificode.in:6969/announce
@@ -60,10 +62,12 @@ http://tracker.edkj.club:6969/announce
 http://tracker.electro-torrent.pl:80/announce
 http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
+http://tracker.guguan.000.pe:80/announce
 http://tracker.h0me.cc:8880/announce
 http://tracker.ipv6tracker.org:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
+http://tracker.kmzs123.com:80/announce
 http://tracker.leena.network:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.nartlof.com.br:6969/announce
@@ -92,10 +96,12 @@ http://www.all4nothin.net:80/announce.php
 http://www.peckservers.com:9000/announce
 http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
+https://api.ipv4online.uk:443/announce
 https://bittorrent.service.gongt.me:59443/announce
 https://bot.ponomar-sibir.ru:443/announce
 https://bt.080609.xyz:443/announce
 https://bt.ptlsp.com:443/announce
+https://jvavav.com:443/announce
 https://k.avc.cx:443/announce.php
 https://opentracker.i2p.rocks:443/announce
 https://pybittrack.retiolus.net:443/announce
@@ -126,6 +132,7 @@ https://tracker.imgoingto.icu:443/announce
 https://tracker.ipfsscan.io:443/announce
 https://tracker.itscraftsoftware.my.id:443/announce
 https://tracker.jdx3.org:443/announce
+https://tracker.kmzs123.top:443/announce
 https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
@@ -186,6 +193,7 @@ udp://bubu.mapfactor.com:6969/announce
 udp://carr.codes:6969/announce
 udp://city21.pk:6969/announce
 udp://concen.org:6969/announce
+udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 udp://epider.me:6969/announce
@@ -203,6 +211,7 @@ udp://ipv4.rer.lol:2710/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://isk.richardsw.club:6969/announce
 udp://jutone.com:6969/announce
+udp://jvavav.com:6969/announce
 udp://leet-tracker.moe:1337/announce
 udp://linfan.moe:6969/announce
 udp://lloria.fr:6969/announce
@@ -304,6 +313,7 @@ udp://tracker.hentai.gg:6969/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
+udp://tracker.kmzs123.cf:17272/announce
 udp://tracker.leech.ie:1337/announce
 udp://tracker.leena.network:6969/announce
 udp://tracker.mirrorbay.org:6969/announce
@@ -353,6 +363,7 @@ udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
 udp://vm3268418.24ssd.had.wf:6969/announce
 udp://wepzone.net:6969/announce
+udp://www.2600.com:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://x.paranoid.agency:6969/announce
 udp://x.t-1.org:6969/announce
