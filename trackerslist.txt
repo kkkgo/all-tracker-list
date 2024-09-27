@@ -82,6 +82,7 @@ http://tracker.sheesh.rip:6969/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.srv00.com:6969/announce
 http://tracker.swateam.org.uk:2710/announce
+http://tracker.waaa.moe:6969/announce
 http://tracker.zerobytes.xyz:1337/announce
 http://tracker1.bt.moack.co.kr:80/announce
 http://tracker1.itzmx.com:8080/announce
@@ -104,6 +105,7 @@ https://bt.080609.xyz:443/announce
 https://bt.ptlsp.com:443/announce
 https://jvavav.com:443/announce
 https://k.avc.cx:443/announce.php
+https://mathkangaroo.jp:443/announce
 https://opentracker.i2p.rocks:443/announce
 https://pybittrack.retiolus.net:443/announce
 https://retracker2.x2k.ru:443/announce
@@ -111,6 +113,7 @@ https://shahidrazi.online:443/announce
 https://t.peer-exchange.download:443/announce
 https://t.zerg.pw/announce
 https://t1.hloli.org:443/announce
+https://threads.canofsocks.com:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tr.aag.moe:443/announce
 https://tr.abir.ga:443/announce
@@ -123,6 +126,7 @@ https://tracker-zhuqiy.dgj055.icu:443/announce
 https://tracker.3moredays.com:443/announce
 https://tracker.amelia.fun:443/announce
 https://tracker.bangumi.zip:443/announce
+https://tracker.bjut.jp:443/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.expli.top:443/announce
 https://tracker.foreverpirates.co:443/announce
@@ -342,6 +346,7 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.vds.nz:6969/announce
+udp://tracker.waaa.moe:6969/announce
 udp://tracker.xor.st:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker1.bt.moack.co.kr:80/announce
