@@ -52,6 +52,7 @@ http://tk.greedland.net:80/announce
 http://torrent.hificode.in:6969/announce
 http://torrentsmd.com:8080/announce
 http://tr.kxmp.cf:80/announce
+http://tr1.aag.moe:2095/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 http://tracker.auctor.tv:6969/announce
 http://tracker.birkenwald.de:6969/announce
@@ -75,6 +76,7 @@ http://tracker.nartlof.com.br:6969/announce
 http://tracker.netmap.top:6969/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
+http://tracker.peckservers.com:9000/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 http://tracker.rev.pm:6969/announce
@@ -108,6 +110,7 @@ https://k.avc.cx:443/announce.php
 https://mathkangaroo.jp:443/announce
 https://opentracker.i2p.rocks:443/announce
 https://pybittrack.retiolus.net:443/announce
+https://retracker.x2k.ru:443/announce
 https://retracker2.x2k.ru:443/announce
 https://shahidrazi.online:443/announce
 https://t.peer-exchange.download:443/announce
@@ -299,6 +302,7 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.ccp.ovh:6969/announce
+udp://tracker.cloaka.xyz:1337/announce
 udp://tracker.cubonegro.lol:6969/announce
 udp://tracker.cubonegro.org:1337/announce
 udp://tracker.cyberia.is:6969/announce
@@ -320,6 +324,7 @@ udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.kmzs123.cf:17272/announce
+udp://tracker.kmzs123.tk:17272/announce
 udp://tracker.leech.ie:1337/announce
 udp://tracker.leena.network:6969/announce
 udp://tracker.mirrorbay.org:6969/announce
