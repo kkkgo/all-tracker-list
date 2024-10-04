@@ -124,6 +124,7 @@ https://tr.burnabyhighstar.com:443/announce
 https://tr.qfruiti.com:443/announce
 https://tr.qfruiti.in:443/announce
 https://tr.ready4.icu:443/announce
+https://tr2.trkb.ru:443/announce
 https://track3r.site:443/announce
 https://tracker-zhuqiy.dgj055.icu:443/announce
 https://tracker.3moredays.com:443/announce
@@ -318,6 +319,7 @@ udp://tracker.edkj.club:6969/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
+udp://tracker.gigantino.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.hentai.gg:6969/announce
 udp://tracker.internetwarriors.net:1337/announce
