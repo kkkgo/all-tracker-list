@@ -114,6 +114,7 @@ https://pybittrack.retiolus.net:443/announce
 https://retracker.x2k.ru:443/announce
 https://retracker2.x2k.ru:443/announce
 https://shahidrazi.online:443/announce
+https://sparkle.ghostchu-services.top:443/announce
 https://t.peer-exchange.download:443/announce
 https://t.zerg.pw/announce
 https://t1.hloli.org:443/announce
@@ -142,6 +143,7 @@ https://tracker.imgoingto.icu:443/announce
 https://tracker.ipfsscan.io:443/announce
 https://tracker.itscraftsoftware.my.id:443/announce
 https://tracker.jdx3.org:443/announce
+https://tracker.kmzs123.cn:443/announce
 https://tracker.kmzs123.top:443/announce
 https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.cf:443/announce
