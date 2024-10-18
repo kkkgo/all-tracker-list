@@ -31,6 +31,7 @@ http://open.acgnxtracker.com:80/announce
 http://open.acgtracker.com:1096/announce
 http://open.tracker.ink:6969/announce
 http://p2p.0g.cx:6969/announce
+http://public.tracker.vraphim.com:6969/announce
 http://r.l5.ca:6969/announce
 http://region.nl1.privex.cc:6969/announce
 http://retracker.211.ru:80/announce
@@ -110,6 +111,7 @@ https://jvavav.com:443/announce
 https://k.avc.cx:443/announce.php
 https://mathkangaroo.jp:443/announce
 https://opentracker.i2p.rocks:443/announce
+https://p2p.azu.red:443/announce
 https://pybittrack.retiolus.net:443/announce
 https://retracker.x2k.ru:443/announce
 https://retracker2.x2k.ru:443/announce
