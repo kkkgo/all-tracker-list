@@ -39,6 +39,7 @@ http://retracker.hotplug.ru:2710/announce
 http://retracker.seven-sky.net:80/announce
 http://retracker.x2k.ru:80/announce
 http://rfc5746.mywaifu.best:6969/announce
+http://saltwood.top:6969/announce
 http://share.camoe.cn:8080/announce
 http://shubt.net:2710/announce
 http://smurfsoft.com:6969/announce
@@ -86,6 +87,7 @@ http://tracker.sheesh.rip:6969/announce
 http://tracker.skyts.net:6969/announce
 http://tracker.srv00.com:6969/announce
 http://tracker.swateam.org.uk:2710/announce
+http://tracker.vraphim.com:6969/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.zerobytes.xyz:1337/announce
 http://tracker1.bt.moack.co.kr:80/announce
@@ -148,6 +150,7 @@ https://tracker.jdx3.org:443/announce
 https://tracker.kmzs123.cn:443/announce
 https://tracker.kmzs123.top:443/announce
 https://tracker.kuroy.me:443/announce
+https://tracker.leechshield.link:443/announce
 https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 https://tracker.loligirl.cn:443/announce
@@ -225,6 +228,7 @@ udp://inferno.demonoid.is:3391/announce
 udp://ipv4.rer.lol:2710/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://isk.richardsw.club:6969/announce
+udp://ismaarino.com:1234/announce
 udp://jutone.com:6969/announce
 udp://jvavav.com:6969/announce
 udp://leet-tracker.moe:1337/announce
@@ -372,6 +376,7 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker3.t-1.org:6969/announce
 udp://tracker4.itzmx.com:2710/announce
+udp://tracker4.leechshield.link:6969/announce
 udp://ts.populargamers.co.za:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 udp://ttr.croco.net:6969/announce
