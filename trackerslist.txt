@@ -69,6 +69,7 @@ http://t1.aag.moe:17715/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://tinfoil.space:6969/announce
 http://tk.greedland.net:80/announce
+http://tk.leechshield.link:80/announce
 http://torrent.hificode.in:6969/announce
 http://torrentsmd.com:8080/announce
 http://tr.kxmp.cf:80/announce
@@ -190,6 +191,7 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 https://tracker.loligirl.cn:443/announce
 https://tracker.moeblog.cn:443/announce
+https://tracker.moeking.me:443/announce
 https://tracker.netmap.top:8443/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.renfei.net:443/announce
