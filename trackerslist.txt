@@ -26,6 +26,7 @@ http://ftp.pet:6969/announce
 http://highteahop.top:6960/announce
 http://home.yxgz.club:6969/announce
 http://incine.ru:6969/announce
+http://ipv4.rer.lol:2710/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 http://ipv6.rer.lol:6969/announce
 http://isk.richardsw.club:6969/announce
@@ -152,6 +153,7 @@ https://retracker.x2k.ru:443/announce
 https://retracker2.x2k.ru:443/announce
 https://shahidrazi.online:443/announce
 https://sparkle.ghostchu-services.top:443/announce
+https://t.213891.xyz:443/announce
 https://t.peer-exchange.download:443/announce
 https://t.zerg.pw/announce
 https://t1.hloli.org:443/announce
