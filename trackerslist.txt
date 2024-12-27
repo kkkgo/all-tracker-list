@@ -253,6 +253,7 @@ udp://canardscitrons.nohost.me:6969/announce
 udp://carr.codes:6969/announce
 udp://city21.pk:6969/announce
 udp://concen.org:6969/announce
+udp://cq.kmzs123.cn:17272/announce
 udp://d13bttrck.duckdns.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://discord.heihachi.pw:6969/announce
@@ -345,6 +346,7 @@ udp://tk2v6.trackerservers.com:8080/announce
 udp://tk4.leechshield.link:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tr.bangumi.moe:6969/announce
+udp://tr.movian.eu:6969/announce
 udp://tr2.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://trackarr.org:6969/announce
