@@ -5,3 +5,12 @@ https://cf.trackerslist.com/all.txt
 https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt
 https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all.txt
 https://cdn.jsdelivr.net/gh/DeSireFire/animeTrackerList/AT_all.txt
+https://gitee.com/harvey520/www.yaozuopan.top/raw/master/blacklist.txt
+https://newtrackon.com/api/all
+https://newtrackon.com/api/live
+https://newtrackon.com/api/stable
+https://newtrackon.com/api/http
+https://raw.githubusercontent.com/1265578519/OpenTracker/master/tracker.txt
+https://raw.githubusercontent.com/hezhijie0327/Trackerslist/source/data/data_http.txt
+https://raw.githubusercontent.com/hezhijie0327/Trackerslist/source/data/data_udp.txt
+https://raw.githubusercontent.com/hezhijie0327/Trackerslist/source/data/data_ws.txt
