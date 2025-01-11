@@ -181,12 +181,14 @@ https://bot.ponomar-sibir.ru:443/announce
 https://bruisedfumblingmotion.sddsdsdsddsdss.repl.co:443/announce
 https://bt.080609.xyz:443/announce
 https://bt.ptlsp.com:443/announce
+https://connects.icu/Announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 https://fbiagent.cyou:443/announce
 https://jvavav.com:443/announce
 https://k.avc.cx:443/announce
 https://k.avc.cx:443/announce.php
 https://mathkangaroo.jp:443/announce
+https://nextpt.net/Announce
 https://opentracker.i2p.rocks:443/announce
 https://p2p.azu.red:443/announce
 https://p4p.arenabg.com:1337/announce
@@ -250,6 +252,7 @@ https://tracker.leechshield.link:443/announce
 https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 https://tracker.loligirl.cn:443/announce
+https://tracker.m-team.cc/announce
 https://tracker.madtia.cc:443/announce
 https://tracker.moeblog.cn:443/announce
 https://tracker.moeking.me:443/announce
@@ -270,9 +273,6 @@ https://trackers.run:443/announce
 https://www.peckservers.com:9443/announce
 https://yolo.liberbear.com:443/announce
 https://yolo.liberbear.com:80/announce
-https://connects.icu/Announce
-https://nextpt.net/Announce
-https://tracker.m-team.cc/announce
 udp://107.182.30.76.16clouds.com:6969/announce
 udp://119.28.71.45:8080/announce
 udp://184.105.151.166:6969/announce
