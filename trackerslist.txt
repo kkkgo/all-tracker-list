@@ -307,6 +307,7 @@ https://trackers.run:443/announce
 https://www.peckservers.com:9443/announce
 https://yolo.liberbear.com:443/announce
 https://yolo.liberbear.com:80/announce
+https://tracker.qingwa.pro/announce
 udp://107.182.30.76.16clouds.com:6969/announce
 udp://119.28.71.45:8080/announce
 udp://184.105.151.166:6969/announce
