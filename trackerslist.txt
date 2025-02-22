@@ -273,6 +273,7 @@ https://tracker.leaves.red:443/announce
 https://tracker.leechshield.link:443/announce
 https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
+https://tracker.linvk.com:443/announce
 https://tracker.loligirl.cn:443/announce
 https://tracker.m-team.cc:443/announce
 https://tracker.madtia.cc:443/announce
@@ -284,6 +285,7 @@ https://tracker.piggo.me:443/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.ptchdbits.co:443/announce
 https://tracker.pterclub.com:443/announce
+https://tracker.qingwa.pro/announce
 https://tracker.rainbowisland.co:443/announce
 https://tracker.renfei.net:443/announce
 https://tracker.renfei.net:8080/announce
@@ -307,7 +309,6 @@ https://trackers.run:443/announce
 https://www.peckservers.com:9443/announce
 https://yolo.liberbear.com:443/announce
 https://yolo.liberbear.com:80/announce
-https://tracker.qingwa.pro/announce
 udp://107.182.30.76.16clouds.com:6969/announce
 udp://119.28.71.45:8080/announce
 udp://184.105.151.166:6969/announce
@@ -345,6 +346,7 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://black-bird.ynh.fr:6969/announce
 udp://boysbitte.be:6969/announce
 udp://brightstar.freeddns.org:6969/announce
+udp://brokenhelix.loseyourip.com:6969/announce
 udp://bry-dell-htpc.freeddns.org:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.rer.lol:2710/announce
@@ -525,6 +527,7 @@ udp://tracker.kmzs123.tk:17272/announce
 udp://tracker.kmzs123.top:17272/announce
 udp://tracker.leech.ie:1337/announce
 udp://tracker.leena.network:6969/announce
+udp://tracker.linvk.com:6969/announce
 udp://tracker.mirrorbay.org:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.netmap.top:6969/announce
