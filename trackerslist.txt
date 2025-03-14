@@ -7,8 +7,10 @@ http://1337.abcvg.info:80/announce
 http://147job.com:6969/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
+http://4.tracker.devnak.win:6969/announce
 http://46.17.46.112:8080/announce
 http://49.12.76.8:8080/announce
+http://6.tracker.devnak.win:6969/announce
 http://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 http://[2a00:b700:1::3:1dc]:8080/announce
 http://[2a01:4f8:c012:8025::1]:8080/announce
@@ -45,6 +47,7 @@ http://isk.richardsw.club:6969/announce
 http://jvavav.com:80/announce
 http://kiryuu-test.mywaifu.best:6969/announce
 http://li2021-95.members.linode.com:6969/announce
+http://lucke.fenesisu.moe:6969/announce
 http://mc.itscraftsoftware.my.id:8804/announce
 http://montreal.nyap2p.com:8080/announce
 http://movies.zsw.ca:6969/announce
@@ -99,6 +102,7 @@ http://tr.nyacat.pw:80/announce
 http://tr1.aag.moe:2095/announce
 http://tracker-rh.zhuqiy.eu.org:80/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
+http://tracker.23794.top:6969/announce
 http://tracker.auctor.tv:6969/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.birkenwald.de:6969/announce
@@ -155,6 +159,7 @@ http://tracker.yuelili.com:80/announce
 http://tracker.zerobytes.xyz:1337/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker.zhuqiy.eu.org:36107/announce
+http://tracker.zhuqiy.top:80/announce
 http://tracker1.bt.moack.co.kr:80/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker2.dler.org/announce
@@ -319,6 +324,7 @@ udp://1c.premierzal.ru:6969/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
+udp://4.tracker.devnak.win:6969/announce
 udp://46.17.46.112:8080/announce
 udp://49.12.76.8:8080/announce
 udp://52.58.128.163:6969/announce
@@ -474,6 +480,7 @@ udp://tk1v6.trackerservers.com:8080/announce
 udp://tk2.trackerservers.com:8080/announce
 udp://tk2v6.trackerservers.com:8080/announce
 udp://tk4.leechshield.link:6969/announce
+udp://torrent.i.ng:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://touhou.kawaiiarts.com:6969/announce
 udp://tr.bangumi.moe:6969/announce
