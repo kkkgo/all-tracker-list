@@ -123,6 +123,7 @@ http://tracker.enitin.xyz:80/announce
 http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.gdp.pw:900/announce
+http://tracker.ghostchu-services.top:80/announce
 http://tracker.guguan.000.pe:80/announce
 http://tracker.h0me.cc:8880/announce
 http://tracker.ipv6tracker.org:80/announce
@@ -132,6 +133,7 @@ http://tracker.k.vu:6969/announce
 http://tracker.kmzs123.com:80/announce
 http://tracker.leena.network:6969/announce
 http://tracker.lintk.me:2710/announce
+http://tracker.lyretain.site:2710/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.nartlof.com.br:6969/announce
@@ -228,6 +230,7 @@ https://tr-rh-zhuqiy.dgj055.icu:443/announce
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 https://tr.aag.moe:443/announce
+https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
 https://tr.burnabyhighstar.com:443/announce
 https://tr.nyacat.pw:443/announce
@@ -259,6 +262,8 @@ https://tracker.fr.eu.org:443/announce
 https://tracker.gbitt.info:443/announce
 https://tracker.gcrenwp.top:443/announce
 https://tracker.gcrreen.xyz:443/announce
+https://tracker.ghostchu-services.top:443/announce
+https://tracker.guguan.dpdns.org:443/announce
 https://tracker.guguan.us.kg:443/announce
 https://tracker.h3o2.me:443/announce
 https://tracker.hdarea.club:443/announce
@@ -288,6 +293,7 @@ https://tracker.moeking.me:443/announce
 https://tracker.nanoha.org:443/announce
 https://tracker.netmap.top:8443/announce
 https://tracker.nitrix.me:443/announce
+https://tracker.opendev.cloud:443/announce
 https://tracker.piggo.me:443/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.ptchdbits.co:443/announce
@@ -341,6 +347,7 @@ udp://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 udp://[2a0f:e586:f:f::81]:6969/announce
 udp://aarsen.me:6969/announce
 udp://acxx.de:6969/announce
+udp://admin.52ywp.com:6969/announce
 udp://aegir.sexy:6969/announce
 udp://amigacity.xyz:6969/announce
 udp://anzix.net:6969/announce
@@ -385,6 +392,7 @@ udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
+udp://files.project-cataclysm.ru:6969/announce
 udp://free.publictracker.xyz:6969/announce
 udp://freedomalternative.com:6969/announce
 udp://ftp.pet:2710/announce
@@ -492,6 +500,7 @@ udp://trackarr.org:6969/announce
 udp://tracker-cn.zhuqiy.eu.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 udp://tracker-us.silksa.co.za:6969/announce
+udp://tracker-v6.opendev.cloud:8000/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.1048576.cn:17272/announce
 udp://tracker.4.babico.name.tr:3131/announce
@@ -591,6 +600,7 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://uploads.gamecoast.net:6969/announce
+udp://utracker.ghostchu-services.top:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
 udp://vm3268418.24ssd.had.wf:6969/announce
