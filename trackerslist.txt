@@ -68,6 +68,7 @@ http://open.trackerlist.xyz:80/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
 http://p2p.0g.cx:6969/announce
 http://p4p.arenabg.com:1337/announce
+http://passpulse.net:8000/announce
 http://public.tracker.vraphim.com:6969/announce
 http://r.l5.ca:6969/announce
 http://region.nl1.privex.cc:6969/announce
@@ -471,6 +472,7 @@ udp://opentracker.io:6969/announce
 udp://oscar.reyesleon.xyz:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://p4p.arenabg.com:1337/announce
+udp://passpulse.net:8000/announce
 udp://pirate.hz.is:1337/announce
 udp://pirate.t-1.org:1337/announce
 udp://private.anonseed.com:6969/announce
