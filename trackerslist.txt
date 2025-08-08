@@ -218,6 +218,7 @@ https://k.avc.cx:443/announce.php
 https://mathkangaroo.jp:443/announce
 https://nextpt.net/Announce
 https://on.springsunday.net:443/announce
+https://opentracker.8880085.xyz:443/announce
 https://opentracker.i2p.rocks:443/announce
 https://ourbits.club:443/announce
 https://p2p.azu.red:443/announce
@@ -383,6 +384,7 @@ udp://boysbitte.be:6969/announce
 udp://brightstar.freeddns.org:6969/announce
 udp://brokenhelix.loseyourip.com:6969/announce
 udp://bry-dell-htpc.freeddns.org:6969/announce
+udp://bt.bontal.net:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.rer.lol:2710/announce
 udp://bt.rer.lol:6969/announce
@@ -457,6 +459,7 @@ udp://open-tracker.demonoid.ch:6969/announce
 udp://open.8a.is:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.demonii.si:1337/announce
+udp://open.demonii.si:80/announce
 udp://open.demonoid.ch:6969/announce
 udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
@@ -537,6 +540,7 @@ udp://tracker.auctor.tv:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.bittor.pw:1337/announce
+udp://tracker.bontal.net:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.btsync.gq:233/announce
 udp://tracker.ccp.ovh:6969/announce
