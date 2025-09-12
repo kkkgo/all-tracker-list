@@ -105,6 +105,7 @@ http://tor.rev.pm:6969/announce
 http://torrent.hificode.in:6969/announce
 http://torrentsmd.com:8080/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
+http://tr.highstar.shop:80/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw:80/announce
 http://tr1.aag.moe:2095/announce
