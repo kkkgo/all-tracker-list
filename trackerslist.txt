@@ -271,6 +271,7 @@ https://tracker.aburaya.live:443/announce
 https://tracker.alaskantf.com:443/announce
 https://tracker.amelia.fun:443/announce
 https://tracker.bangumi.zip:443/announce
+https://tracker.belmult.online:443/announce
 https://tracker.bjut.jp:443/announce
 https://tracker.bt4g.com:443/announce
 https://tracker.bulao.ren:443/announce
@@ -402,6 +403,7 @@ udp://bt1.archive.org:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bubu.mapfactor.com:6969/announce
+udp://burmese.app:6969/announce
 udp://canardscitrons.nohost.me:6969/announce
 udp://carr.codes:6969/announce
 udp://chihaya.de:6969/announce
