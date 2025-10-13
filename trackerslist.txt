@@ -23,6 +23,7 @@ http://bjlt.zhuqiy.eu.org:6666/announce
 http://bt.endpot.com:80/announce
 http://bt.okmp3.ru:2710/announce
 http://bt.poletracker.org:2710/announce
+http://bt.rer.lol:2710/announce
 http://bt.xcty.eu.org:2095/announce
 http://bt1.xxxxbt.cc:6969/announce
 http://buny.uk:6969/announce
@@ -121,6 +122,7 @@ http://tracker.bittor.pw:1337/announce
 http://tracker.bt-hash.com:80/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.bz:80/announce
+http://tracker.chaoz.li:2710/announce
 http://tracker.corpscorp.online:80/announce
 http://tracker.cubicview.site:80/announce
 http://tracker.cutie.dating:80/announce
@@ -504,6 +506,7 @@ udp://public.publictracker.xyz:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
 udp://pxnet.ru:6969/announce
 udp://r.l5.ca:6969/announce
+udp://rekcart.duckdns.org:15480/announce
 udp://retracker.hotplug.ru:2710/announce
 udp://retracker.lanta-net.ru:2710/announce
 udp://retracker.lanta.me:2710/announce
