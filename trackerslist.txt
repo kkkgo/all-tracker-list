@@ -221,6 +221,7 @@ https://bt.ptlsp.com:443/announce
 https://bt2.080609.xyz:443/announce
 https://chdbits.xyz:443/announce
 https://chihaya.de:443/announce
+https://cny.fan:443/announce
 https://connects.icu/Announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 https://fbiagent.cyou:443/announce
@@ -332,6 +333,7 @@ https://tracker.pmman.tech:443/announce
 https://tracker.ptchdbits.co:443/announce
 https://tracker.pterclub.com:443/announce
 https://tracker.qingwa.pro/announce
+https://tracker.qingwa.pro:443/announce
 https://tracker.rainbowisland.co:443/announce
 https://tracker.renfei.net:443/announce
 https://tracker.renfei.net:8080/announce
@@ -554,6 +556,7 @@ udp://tracker-us.silksa.co.za:6969/announce
 udp://tracker-v6.opendev.cloud:8000/announce
 udp://tracker.0x7c0.com:6969/announce
 udp://tracker.1048576.cn:17272/announce
+udp://tracker.1h.is:1337/announce
 udp://tracker.4.babico.name.tr:3131/announce
 udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.anima.nz:6969/announce
