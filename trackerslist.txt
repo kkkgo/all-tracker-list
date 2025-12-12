@@ -70,6 +70,7 @@ http://openwrt.lingyurouqing.xyz:6969/announce
 http://p2p.0g.cx:6969/announce
 http://p4p.arenabg.com:1337/announce
 http://passpulse.net:8000/announce
+http://play.aimisayo.com:6969/announce
 http://public.tracker.vraphim.com:6969/announce
 http://r.l5.ca:6969/announce
 http://region.nl1.privex.cc:6969/announce
@@ -458,6 +459,7 @@ udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jutone.com:6969/announce
 udp://jvavav.com:6969/announce
+udp://laestrygonian.ooguy.com:9001/announce
 udp://leet-tracker.moe:1337/announce
 udp://linfan.moe:6969/announce
 udp://llideong.cn:6969/announce
@@ -650,6 +652,7 @@ udp://tracker.valete.tf:9999/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.waaa.moe:6969/announce
 udp://tracker.wepzone.net:6969/announce
+udp://tracker.x6c.co:6969/announce
 udp://tracker.xor.st:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
