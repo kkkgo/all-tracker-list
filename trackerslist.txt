@@ -465,6 +465,7 @@ udp://linfan.moe:6969/announce
 udp://llideong.cn:6969/announce
 udp://lloria.fr:6969/announce
 udp://lopatins.ru:5972/announce
+udp://lotus-eater.mywire.org:9001/announce
 udp://lulz.vpndb.org:3000/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.segso.net:6969/announce
@@ -475,6 +476,9 @@ udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
 udp://netmap.top:6969/announce
 udp://new-line.net:6969/announce
+udp://node01.torrentonline.cc:42069/announce
+udp://node01.trackerstatus.live:42069/announce
+udp://node02.torrentonline.cc:42069/announce
 udp://npge.nprotect.com:6969/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
@@ -620,6 +624,7 @@ udp://tracker.ocnix.net:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.open-data.network:8888/announce
 udp://tracker.openbittorrent.com:6969/announce
+udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.picotorrent.one:6969/announce
 udp://tracker.playground.ru:6969/announce
