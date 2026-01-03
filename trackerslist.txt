@@ -341,6 +341,7 @@ https://tracker.rainbowisland.co:443/announce
 https://tracker.renfei.net:443/announce
 https://tracker.renfei.net:8080/announce
 https://tracker.sjtu.edu.cn:443/announce
+https://tracker.soshifanclub.com:443/announce
 https://tracker.tamersunion.org:443/announce
 https://tracker.totheglory.im:443/announce
 https://tracker.uraniumhexafluori.de:443/announce
@@ -574,6 +575,7 @@ udp://tracker.auctor.tv:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.bittor.pw:1337/announce
+udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.bontal.net:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.btsync.gq:233/announce
