@@ -136,6 +136,7 @@ http://tracker.dump.cl:6969/announce
 http://tracker.edkj.club:6969/announce
 http://tracker.electro-torrent.pl:80/announce
 http://tracker.enitin.xyz:80/announce
+http://tracker.file09.com:80/announce
 http://tracker.files.fm:6969/announce
 http://tracker.gbitt.info:80/announce
 http://tracker.gdp.pw:900/announce
@@ -193,6 +194,7 @@ http://tracker2.itzmx.com:6961/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 http://tracker810.xyz:11450/announce
+http://trackr.appolon.dev:6969/announce
 http://uraniumhexafluori.de:1919/announce
 http://v6-tracker.0g.cx:6969/announce
 http://wegkxfcivgx.chickenkiller.com:80/announce
@@ -283,6 +285,7 @@ https://tracker.bangumi.zip:443/announce
 https://tracker.belmult.online:443/announce
 https://tracker.bjut.jp:443/announce
 https://tracker.bt4g.com:443/announce
+https://tracker.bug38.com:443/announce
 https://tracker.bulao.ren:443/announce
 https://tracker.cangku.moe:443/announce
 https://tracker.carpt.net:443/announce
@@ -421,6 +424,7 @@ udp://canardscitrons.nohost.me:6969/announce
 udp://carr.codes:6969/announce
 udp://chihaya.de:6969/announce
 udp://city21.pk:6969/announce
+udp://colivioo.com:6969/announce
 udp://concen.org:6969/announce
 udp://cq.kmzs123.cn:17272/announce
 udp://d13bttrck.duckdns.org:6969/announce
@@ -608,6 +612,7 @@ udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.home.kmzs123.cn:17272/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.iperson.xyz:6969/announce
+udp://tracker.ixuexi.click:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.jonaslsa.com:6969/announce
 udp://tracker.joybomb.tw:6969/announce
@@ -655,6 +660,7 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackarr.org:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
+udp://tracker.uraniumhexafluori.de:443/announce
 udp://tracker.valete.tf:9999/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.waaa.moe:6969/announce
