@@ -145,6 +145,7 @@ http://tracker.gdp.pw:900/announce
 http://tracker.ghostchu-services.top:80/announce
 http://tracker.guguan.000.pe:80/announce
 http://tracker.h0me.cc:8880/announce
+http://tracker.imgdump.lol:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 http://tracker.ipv6tracker.org:80/announce
 http://tracker.ipv6tracker.ru:80/announce
@@ -154,6 +155,7 @@ http://tracker.kmzs123.com:80/announce
 http://tracker.leena.network:6969/announce
 http://tracker.lintk.me:2710/announce
 http://tracker.lyretain.site:2710/announce
+http://tracker.memelords.xyz:80/announce
 http://tracker.moxing.party:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.nartlof.com.br:6969/announce
@@ -340,13 +342,16 @@ https://tracker.moeking.me:443/announce
 https://tracker.nanoha.org:443/announce
 https://tracker.netmap.top:8443/announce
 https://tracker.nitrix.me:443/announce
+https://tracker.novy.vip:443/announce
 https://tracker.opendev.cloud:443/announce
 https://tracker.piggo.me:443/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.ptchdbits.co:443/announce
 https://tracker.pterclub.com:443/announce
+https://tracker.puvvadi.net:443/announce
 https://tracker.qingwa.pro/announce
 https://tracker.qingwa.pro:443/announce
+https://tracker.qingwapt.org:443/announce
 https://tracker.rainbowisland.co:443/announce
 https://tracker.renfei.net:443/announce
 https://tracker.renfei.net:8080/announce
@@ -486,6 +491,7 @@ udp://martin-gebhardt.eu:25/announce
 udp://mikrotik2.draatman.net:6969/announce
 udp://moonburrow.club:6969/announce
 udp://movies.zsw.ca:6969/announce
+udp://navegador.click:6969/announce
 udp://netmap.top:6969/announce
 udp://new-line.net:6969/announce
 udp://node01.torrentonline.cc:42069/announce
@@ -563,6 +569,7 @@ udp://tk4.leechshield.link:6969/announce
 udp://torrent.i.ng:6969/announce
 udp://torrentclub.online:54123/announce
 udp://torrents.artixlinux.org:6969/announce
+udp://torrentvpn.club:6990/announce
 udp://touhou.kawaiiarts.com:6969/announce
 udp://tr.bangumi.moe:6969/announce
 udp://tr.movian.eu:6969/announce
@@ -620,6 +627,7 @@ udp://tracker.hentai.gg:6969/announce
 udp://tracker.hifimarket.in:2710/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://tracker.home.kmzs123.cn:17272/announce
+udp://tracker.huadongblower.xyz:8080/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.ixuexi.click:6969/announce
@@ -650,6 +658,7 @@ udp://tracker.plx.im:6969/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.rescuecrew7.com:1337/announce
+udp://tracker.riverarmy.xyz:6969/announce
 udp://tracker.sharebro.in:6969/announce
 udp://tracker.sheesh.rip:6969/announce
 udp://tracker.silksa.co.za:6969/announce
@@ -702,6 +711,7 @@ udp://ttr.croco.net:6969/announce
 udp://u.peer-exchange.download:6969/announce
 udp://u4.trakx.crim.ist:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
+udp://uabits.today:6990/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://uploads.gamecoast.net:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
