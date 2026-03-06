@@ -1,4 +1,4 @@
-name: update_data
+name: clean
 on:
   push:
     paths-ignore:
@@ -23,3 +23,4 @@ jobs:
       run: |
           curl -i https://purge.jsdelivr.net/gh/${{ github.repository }}/trackerslist.txt.xz &&
           curl -i https://purge.jsdelivr.net/gh/${{ github.repository }}/trackerslist.txt.xz.sha256sum
+
