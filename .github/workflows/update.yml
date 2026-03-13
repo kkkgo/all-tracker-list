@@ -1,10 +1,10 @@
 name: update_data
 on:
-  push:
-    paths-ignore:
-      - 'README.md'
-      - '.github/**'
-      - 'LICENSE'
+  # push:
+  #   paths-ignore:
+  #     - 'README.md'
+  #     - '.github/**'
+  #     - 'LICENSE'
   schedule:
     - cron: '30 06 * * 5'
   workflow_dispatch:
