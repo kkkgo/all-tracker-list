@@ -67,6 +67,7 @@ http://open.acgtracker.com:1096/announce
 http://open.tracker.cl:1337/announce
 http://open.tracker.ink:6969/announce
 http://open.trackerlist.xyz:80/announce
+http://opentracker.91kf.top:16969/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
 http://p2p.0g.cx:6969/announce
 http://p4p.arenabg.com:1337/announce
@@ -85,6 +86,9 @@ http://retracker.x2k.ru:80/announce
 http://retracker.xxtor.com:80/announce
 http://rfc5746.mywaifu.best:6969/announce
 http://s1124554.ha012.t.mydomain.zone:80/announce
+http://s1130638.ha016.t.mydomain.zone:80/announce
+http://s1130639.ha009.t.mydomain.zone:80/announce
+http://s1130642.ha014.t.mydomain.zone:80/announce
 http://s926723.ha016.t.mydomain.zone:80/announce
 http://saltwood.top:6969/announce
 http://seeders-paradise.org:80/announce
@@ -200,6 +204,7 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker2.dler.org/announce
 http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
+http://tracker3.ctix.cn:8080/announce
 http://tracker3.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce
 http://tracker810.xyz:11450/announce
@@ -236,6 +241,7 @@ https://bt2.080609.xyz:443/announce
 https://chdbits.xyz:443/announce
 https://chihaya.de:443/announce
 https://cny.fan:443/announce
+https://colibri.parrot.run:443/announce
 https://connects.icu/Announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 https://fbiagent.cyou:443/announce
@@ -366,6 +372,7 @@ https://tracker.soshifanclub.com:443/announce
 https://tracker.tamersunion.org:443/announce
 https://tracker.totheglory.im:443/announce
 https://tracker.uraniumhexafluori.de:443/announce
+https://tracker.vectahosting.eu:443/announce
 https://tracker.wsaoa.eu.org:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker.yggleak.top:443/announce
@@ -383,6 +390,8 @@ https://trackers.nekosunevr.co.uk:443/announce
 https://trackers.ptlsp.com:443/announce
 https://trackers.run:443/announce
 https://ttracker.just-h.party:443/announce
+https://wolf.parrot.run:443/announce
+https://wsad.run.place:443/announce
 https://www.peckservers.com:9443/announce
 https://yolo.liberbear.com:443/announce
 https://yolo.liberbear.com:80/announce
@@ -734,6 +743,7 @@ udp://vm3268418.24ssd.had.wf:6969/announce
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://wepzone.net:6969/announce
 udp://www.2600.com:6969/announce
+udp://www.nartlof.com:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://x.hz.is:6969/announce
 udp://x.paranoid.agency:6969/announce
