@@ -265,6 +265,7 @@ https://k.avc.cx:443/announce.php
 https://mathkangaroo.jp:443/announce
 https://nextpt.net/Announce
 https://on.springsunday.net:443/announce
+https://open.ftorrent.com:443/announce
 https://opentracker.8880085.xyz:443/announce
 https://opentracker.i2p.rocks:443/announce
 https://ourbits.club:443/announce
@@ -354,6 +355,7 @@ https://tracker.kmzs123.top:443/announce
 https://tracker.kuroy.me:443/announce
 https://tracker.leaves.red:443/announce
 https://tracker.leechshield.link:443/announce
+https://tracker.lenition.de:443/announce
 https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 https://tracker.linvk.com:443/announce
@@ -382,6 +384,7 @@ https://tracker.qingwapt.org:443/announce
 https://tracker.rainbowisland.co:443/announce
 https://tracker.renfei.net:443/announce
 https://tracker.renfei.net:8080/announce
+https://tracker.samcze.pl:443/announce
 https://tracker.sjtu.edu.cn:443/announce
 https://tracker.soshifanclub.com:443/announce
 https://tracker.tamersunion.org:443/announce
@@ -466,6 +469,7 @@ udp://bubu.mapfactor.com:6969/announce
 udp://burmese.app:6969/announce
 udp://canardscitrons.nohost.me:6969/announce
 udp://carr.codes:6969/announce
+udp://cerf.cs.umd.edu:8000/announce
 udp://chihaya.de:6969/announce
 udp://city21.pk:6969/announce
 udp://coeus.torrentonline.cc:42069/announce
@@ -608,6 +612,7 @@ udp://torrent.bowed.net:8081/announce
 udp://torrent.i.ng:6969/announce
 udp://torrentclub.online:54123/announce
 udp://torrents.artixlinux.org:6969/announce
+udp://torrents.tmtime.dev:6969/announce
 udp://torrentvpn.club:6990/announce
 udp://touhou.kawaiiarts.com:6969/announce
 udp://tr.bangumi.moe:6969/announce
@@ -721,6 +726,7 @@ udp://tracker.therarbg.to:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.tnl.one:8000/announce
 udp://tracker.torrent.eu.org:451/announce
+udp://tracker.torrentclaw.com:1337/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackarr.org:6969/announce
 udp://tracker.tryhackx.org:6969/announce
@@ -767,6 +773,7 @@ udp://v2.iperson.xyz:6969/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vito-tracker.duckdns.org:6969/announce
 udp://vito-tracker.space:2095/announce
+udp://vito-tracker.space:6969/announce
 udp://vm3268418.24ssd.had.wf:6969/announce
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://wepzone.net:6969/announce
