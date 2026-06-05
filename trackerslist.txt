@@ -19,6 +19,7 @@ http://[2a00:b700:1::3:1dc]:8080/announce
 http://[2a01:4f8:c012:8025::1]:8080/announce
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+http://announce.sktorrent.eu:6969/announce
 http://asiatorrent.ddns.net:51413/announce
 http://asiatorrent.giize.com:51413/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
@@ -91,6 +92,8 @@ http://retracker.seven-sky.net:80/announce
 http://retracker.spark-rostov.ru:80/announce
 http://retracker.x2k.ru:80/announce
 http://retracker.xxtor.com:80/announce
+http://retracker01-msk-virt.corbina.net/announce
+http://retracker01-msk-virt.corbina.net:80/announce
 http://rfc5746.mywaifu.best:6969/announce
 http://s1124554.ha012.t.mydomain.zone:80/announce
 http://s1130638.ha016.t.mydomain.zone:80/announce
@@ -180,6 +183,7 @@ http://tracker.openbittorrent.com:80/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.pcfreetime.com:6969/announce
 http://tracker.peckservers.com:9000/announce
+http://tracker.plx.im:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
@@ -234,6 +238,7 @@ http://www.torrentsnipe.info:2701/announce
 http://www.wareztorrent.com:80/announce
 https://004430.xyz/announce
 https://004430.xyz:443/announce
+https://021912.xyz:443/announce
 https://1.tracker.eu.org:443/announce
 https://1337.abcvg.info:443/announce
 https://2.tracker.eu.org:443/announce
@@ -242,6 +247,7 @@ https://4.tracker.eu.org:443/announce
 https://9001-digitaladeel-bkwl-launch-oovrfk6mpz.app.codeanywhere.com:443/announce
 https://agsvpt.trackers.work:443/announce
 https://api.ipv4online.uk:443/announce
+https://banananetwork.qzz.io:443/announce
 https://bittorrent.service.gongt.me:59443/announce
 https://bittracker.nekosunevr.co.uk:443/announce
 https://bot.ponomar-sibir.ru:443/announce
@@ -268,6 +274,7 @@ https://on.springsunday.net:443/announce
 https://open.ftorrent.com:443/announce
 https://opentracker.8880085.xyz:443/announce
 https://opentracker.i2p.rocks:443/announce
+https://orgtgju.org:443/announce
 https://ourbits.club:443/announce
 https://p2p.azu.red:443/announce
 https://p4p.arenabg.com:1337/announce
@@ -313,6 +320,7 @@ https://tracker.7471.top:443/announce
 https://tracker.aburaya.live:443/announce
 https://tracker.alaskantf.com:443/announce
 https://tracker.amelia.fun:443/announce
+https://tracker.anibt.net:443/announce
 https://tracker.bangumi.zip:443/announce
 https://tracker.belmult.online:443/announce
 https://tracker.bjut.jp:443/announce
@@ -362,6 +370,7 @@ https://tracker.linvk.com:443/announce
 https://tracker.loligirl.cn:443/announce
 https://tracker.m-team.cc:443/announce
 https://tracker.madtia.cc:443/announce
+https://tracker.manager.itislove.cz:443/announce
 https://tracker.manager.v6.navy:443/announce
 https://tracker.maya.no.eu.org:443/announce
 https://tracker.moeblog.cn:443/announce
