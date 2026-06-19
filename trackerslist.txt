@@ -601,6 +601,7 @@ udp://sabross.xyz:6969/announce
 udp://sanincode.com:6969/announce
 udp://seedpeer.net:6969/announce
 udp://serpb.vpsburti.com:6969/announce
+udp://shahidrazi.online:1984/announce
 udp://soundmovie.ru:6969/announce
 udp://speedtest.iperson.xyz:6969/announce
 udp://ssb14.nohost.me:6969/announce
@@ -622,6 +623,7 @@ udp://tk2v6.trackerservers.com:8080/announce
 udp://tk4.leechshield.link:6969/announce
 udp://torrent.bowed.net:8081/announce
 udp://torrent.i.ng:6969/announce
+udp://torrentclub.online:1984/announce
 udp://torrentclub.online:54123/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://torrents.tmtime.dev:6969/announce
@@ -715,6 +717,7 @@ udp://tracker.openbittorrent.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.orsvarn.com:6969/announce
+udp://tracker.peerfect.org:6969/announce
 udp://tracker.picotorrent.one:6969/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.plx.im:6969/announce
