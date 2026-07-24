@@ -186,6 +186,7 @@ http://tracker.moxing.party:6969/announce
 http://tracker.mywaifu.best:6969/announce
 http://tracker.nartlof.com.br:6969/announce
 http://tracker.netmap.top:6969/announce
+http://tracker.nexusstream.eu:6969/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentorrent.top:6969/announce
 http://tracker.opentrackr.org:1337/announce
@@ -245,6 +246,7 @@ http://www.genesis-sp.org:2710/announce
 http://www.peckservers.com:9000/announce
 http://www.torrentsnipe.info:2701/announce
 http://www.wareztorrent.com:80/announce
+http://ydlkccp.dscloud.me:6969/announce
 https://004430.xyz/announce
 https://004430.xyz:443/announce
 https://021912.xyz:443/announce
@@ -271,6 +273,7 @@ https://cny.fan:443/announce
 https://colibri.parrot.run:443/announce
 https://connects.icu/Announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
+https://edgev.duckdns.org:443/announce
 https://fbiagent.cyou:443/announce
 https://hdpt.xyz:443/announce
 https://ht.therarbg.to:443/announce
