@@ -515,6 +515,7 @@ udp://download.nerocloud.me:6969/announce
 udp://ds32244.seedhost.eu:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+udp://edgev.duckdns.org:6969/announce
 udp://epider.me:6969/announce
 udp://escalaenbernal.com:3074/announce
 udp://evan.im:6969/announce
@@ -641,6 +642,7 @@ udp://tk2v6.trackerservers.com:8080/announce
 udp://tk4.leechshield.link:6969/announce
 udp://torrent.bowed.net:8081/announce
 udp://torrent.i.ng:6969/announce
+udp://torrent.tracker.durukanbal.com:6969/announce
 udp://torrentclub.online:1984/announce
 udp://torrentclub.online:54123/announce
 udp://torrents.artixlinux.org:6969/announce
@@ -729,6 +731,7 @@ udp://tracker.mirrorbay.org:6969/announce
 udp://tracker.moeking.me:6969/announce
 udp://tracker.netmap.top:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
+udp://tracker.nyaa.net:6969/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://tracker.ocnix.net:6969/announce
 udp://tracker.ololosh.space:6969/announce
