@@ -540,6 +540,7 @@ udp://inferno.demonoid.is:3391/announce
 udp://ipv4.rer.lol:2710/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://ipv6.fuuuuuck.com:6969/announce
+udp://ipv6.govt.hu:6969/announce
 udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jutone.com:6969/announce
@@ -683,6 +684,7 @@ udp://tracker.btsync.gq:233/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloaka.xyz:1337/announce
 udp://tracker.cloudbase.store:1333/announce
+udp://tracker.cn.nyaa.net:6969/announce
 udp://tracker.corpscorp.online:80/announce
 udp://tracker.cubonegro.lol:6969/announce
 udp://tracker.cubonegro.org:1337/announce
@@ -719,6 +721,7 @@ udp://tracker.ixuexi.click:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.jonaslsa.com:6969/announce
 udp://tracker.joybomb.tw:6969/announce
+udp://tracker.k.vu:6969/announce
 udp://tracker.kmzs123.cf:17272/announce
 udp://tracker.kmzs123.cn:17272/announce
 udp://tracker.kmzs123.com:17272/announce
