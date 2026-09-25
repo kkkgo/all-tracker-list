@@ -548,6 +548,8 @@ udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jutone.com:6969/announce
 udp://jvavav.com:6969/announce
+udp://kolankoalastree.newtrackon.co.nz:1337/announce
+udp://kolanopentracker.airdns.org:3392/announce
 udp://laestrygonian.ooguy.com:9001/announce
 udp://leet-tracker.moe:1337/announce
 udp://linfan.moe:6969/announce
