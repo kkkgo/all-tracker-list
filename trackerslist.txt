@@ -277,6 +277,7 @@ https://connects.icu/Announce
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 https://edgev.duckdns.org:443/announce
 https://fbiagent.cyou:443/announce
+https://gargoyleperch.de:443/announce
 https://hdpt.xyz:443/announce
 https://ht.therarbg.to:443/announce
 https://http1.torrust-tracker-demo.com:443/announce
@@ -425,6 +426,7 @@ https://tracker.vectahosting.eu:443/announce
 https://tracker.wsaoa.eu.org:443/announce
 https://tracker.yemekyedim.com:443/announce
 https://tracker.yggleak.top:443/announce
+https://tracker.yume-hatsuyuki.moe:443/announce
 https://tracker.zhuqiy.com:443/announce
 https://tracker.zhuqiy.top:443/announce
 https://tracker.zhuque.in:443/announce
@@ -603,6 +605,7 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://opentracker.io:6969/announce
 udp://opentracker.lain.moscow:6969/announce
 udp://opentracker.xyz:443/announce
+udp://opentracker2.lain.moscow:6969/announce
 udp://oscar.reyesleon.xyz:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 udp://p4p.arenabg.com:1337/announce
@@ -711,6 +714,7 @@ udp://tracker.draatman.uk:6969/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.dump.cl:6969/announce
 udp://tracker.edkj.club:6969/announce
+udp://tracker.evergarden.uk:1914/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.flatuslifir.is:6969/announce
@@ -765,6 +769,7 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.rescuecrew7.com:1337/announce
 udp://tracker.riverarmy.xyz:6969/announce
+udp://tracker.sela.st:6969/announce
 udp://tracker.sharebro.in:6969/announce
 udp://tracker.sheesh.rip:6969/announce
 udp://tracker.silksa.co.za:6969/announce
