@@ -519,6 +519,7 @@ udp://darkstarr.kozow.com:6881/announce
 udp://dataforai.com:31332/announce
 udp://db.koikia.eu:6969/announce
 udp://discord.heihachi.pw:6969/announce
+udp://discover.curiousfacts.blog:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://ds32244.seedhost.eu:6969/announce
 udp://dyndns.xionxiii.ovh:6969/announce
@@ -793,6 +794,7 @@ udp://tracker.torrentclaw.com:1337/announce
 udp://tracker.torrents.observer:80/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackarr.org:6969/announce
+udp://tracker.transfur.org:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.umunu.ru:6969/announce
