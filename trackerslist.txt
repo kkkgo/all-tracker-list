@@ -189,6 +189,7 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.nartlof.com.br:6969/announce
 http://tracker.netmap.top:6969/announce
 http://tracker.nexusstream.eu:6969/announce
+http://tracker.okade.pro:1337/announce
 http://tracker.openbittorrent.com:80/announce
 http://tracker.opentorrent.top:6969/announce
 http://tracker.opentrackr.org:1337/announce
@@ -641,12 +642,15 @@ udp://shahidrazi.online:1984/announce
 udp://soundmovie.ru:6969/announce
 udp://speedtest.iperson.xyz:6969/announce
 udp://ssb14.nohost.me:6969/announce
+udp://stairs.lat:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://su-data.com:6969/announce
 udp://sx.xxtor.com:6969/announce
 udp://t.133335.xyz:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://t.zerg.pw:6969/announce
+udp://t1.itrus.su:1212/announce
+udp://t2.itrus.su:1212/announce
 udp://tamas3.ynh.fr:6969/announce
 udp://tcq.zhuqiy.eu.org:25091/announce
 udp://thinking.duckdns.org:6969/announce
