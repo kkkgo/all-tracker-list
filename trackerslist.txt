@@ -82,6 +82,7 @@ http://open.tracker.cl:1337/announce
 http://open.tracker.ink:6969/announce
 http://open.trackerlist.xyz:80/announce
 http://opentracker.91kf.top:16969/announce
+http://opentracker.lain.moscow:6969/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
 http://p2p.0g.cx:6969/announce
 http://p4p.arenabg.com:1337/announce
@@ -285,6 +286,7 @@ https://http1.torrust-tracker-demo.com:443/announce
 https://jvavav.com:443/announce
 https://k.avc.cx:443/announce
 https://k.avc.cx:443/announce.php
+https://lattice.peerrelay.workers.dev:443/announce
 https://mathkangaroo.jp:443/announce
 https://nextpt.net/Announce
 https://on.springsunday.net:443/announce
@@ -544,6 +546,7 @@ udp://ftp.pet:2710/announce
 udp://globalwave.no-ip.org:6969/announce
 udp://glotorrents.pw:6969/announce
 udp://hbsy.zhuqiy.eu.org:6666/announce
+udp://hidden.torrentonline.cc:42069/announce
 udp://hificode.in:6969/announce
 udp://htz3.noho.st:6969/announce
 udp://hz.is:1337/announce
@@ -702,6 +705,7 @@ udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.bontal.net:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.btsync.gq:233/announce
+udp://tracker.bunk.im:6969/announce
 udp://tracker.ccp.ovh:6969/announce
 udp://tracker.cloaka.xyz:1337/announce
 udp://tracker.cloudbase.store:1333/announce
